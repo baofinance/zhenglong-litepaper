@@ -20,6 +20,7 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "baofinance", // Usually your GitHub org/user name.
   projectName: "zhenglong-litepaper", // Usually your repo name.
+  deploymentBranch: "gh-pages", // Branch that GitHub Pages will deploy from
 
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
