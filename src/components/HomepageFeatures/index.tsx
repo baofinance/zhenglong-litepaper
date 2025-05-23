@@ -11,7 +11,7 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: "Data-Pegged Synthetic Assets",
+    title: "Synthetic Assets",
     Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
     description: (
       <>
@@ -22,7 +22,7 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: "Decentralized Oracle Network",
+    title: "Oracle Network",
     Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
     description: (
       <>
@@ -33,7 +33,7 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: "Composable DeFi Infrastructure",
+    title: "DeFi Infrastructure",
     Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
     description: (
       <>
