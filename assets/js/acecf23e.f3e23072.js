@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklitepaper=self.webpackChunklitepaper||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/zhenglong-litepaper/blog","blogTitle":"Blog","authorsListPath":"/zhenglong-litepaper/blog/authors"}')}}]);
