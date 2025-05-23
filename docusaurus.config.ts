@@ -94,7 +94,7 @@ const config: Config = {
           items: [
             {
               label: "Litepaper",
-              to: "/docs/intro",
+              to: "/docs/",
             },
           ],
         },

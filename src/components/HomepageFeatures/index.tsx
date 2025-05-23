@@ -11,36 +11,34 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: "Capital Efficient Design",
+    title: "Data-Pegged Synthetic Assets",
     Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
     description: (
       <>
-        Zhenglong delivers 100% capital efficiency with a three-token system
-        that operates without reliance on external liquidity pools. A single
-        deposit of collateral simultaneously backs both stable and leveraged
-        tokens.
+        Zhenglong enables the creation of synthetic assets pegged to real-world
+        data, providing exposure to various markets without traditional
+        intermediaries.
       </>
     ),
   },
   {
-    title: "Re-balancing Leverage",
+    title: "Decentralized Oracle Network",
     Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
     description: (
       <>
-        steamedTOKENS offer leveraged exposure without forced position closures
-        or funding costs. Market risks are absorbed by the protocol's Stability
-        Pools through a shared, proportional re-balancing process.
+        Our secure oracle network ensures reliable and tamper-resistant data
+        feeds, maintaining the integrity of all synthetic assets on the
+        platform.
       </>
     ),
   },
   {
-    title: "Fully Backed Pegged Tokens",
+    title: "Composable DeFi Infrastructure",
     Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
     description: (
       <>
-        zheTOKENS are always 100% collateralized by yield-bearing assets and can
-        be redeemed 1:1, providing stable value with integrated yield from the
-        underlying collateral.
+        Built for integration with the broader DeFi ecosystem, Zhenglong's
+        protocol enables innovative financial applications and strategies.
       </>
     ),
   },
