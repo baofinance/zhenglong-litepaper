@@ -11,17 +11,17 @@ const config: Config = {
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://zhenglong.github.io",
+  url: "https://baofinance.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/litepaper/",
+  baseUrl: "/zhenglong-litepaper/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "zhenglong", // Usually your GitHub org/user name.
-  projectName: "litepaper", // Usually your repo name.
+  organizationName: "baofinance", // Usually your GitHub org/user name.
+  projectName: "zhenglong-litepaper", // Usually your repo name.
 
-  onBrokenLinks: "throw",
+  onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
 
   // Even if you don't use internationalization, you can use this field to set
@@ -39,7 +39,8 @@ const config: Config = {
         docs: {
           sidebarPath: "./sidebars.ts",
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/zhenglong/litepaper/tree/main/",
+          editUrl:
+            "https://github.com/baofinance/zhenglong-litepaper/tree/main/",
         },
         blog: {
           showReadingTime: true,
@@ -48,7 +49,8 @@ const config: Config = {
             xslt: true,
           },
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/zhenglong/litepaper/tree/main/",
+          editUrl:
+            "https://github.com/baofinance/zhenglong-litepaper/tree/main/",
           // Useful options to enforce blogging best practices
           onInlineTags: "warn",
           onInlineAuthors: "warn",
@@ -78,7 +80,7 @@ const config: Config = {
           label: "Litepaper",
         },
         {
-          href: "https://github.com/zhenglong/litepaper",
+          href: "https://github.com/baofinance/zhenglong-litepaper",
           label: "GitHub",
           position: "right",
         },
@@ -114,7 +116,7 @@ const config: Config = {
           items: [
             {
               label: "GitHub",
-              href: "https://github.com/zhenglong/litepaper",
+              href: "https://github.com/baofinance/zhenglong-litepaper",
             },
           ],
         },
