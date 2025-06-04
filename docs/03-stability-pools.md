@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Stability Pools and Automated Rebalancing
+# Stability Pools
 
 One of Zhenglong's most important concepts is its on-chain Stability Pools - automated mechanisms that act as a safety net for the entire protocol. These pools are what make re-balancing possible for steamedTOKENS, while also keeping zheTOKENS stable and properly collateralized. In other systems, external re-balancers and arbitrageurs manage this process. In Zhenglong, it happens preemptively and transparently, with no middlemen.
 

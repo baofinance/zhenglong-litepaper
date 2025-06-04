@@ -2,7 +2,7 @@
 sidebar_position: 9
 ---
 
-# STEAM Token: Governance, Yield, and Long-Term Alignment
+# STEAM Token
 
 The STEAM token is the governance and utility backbone of the Zhenglong ecosystem. While it's not directly involved in minting or redeeming zheTOKENS and steamedTOKENS, it plays a crucial role in shaping the future of the protocol - and in rewarding those who support it.
 

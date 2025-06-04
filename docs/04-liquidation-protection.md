@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Re-balancing Leverage and Extreme Market Scenarios
+# Liquidation Protection
 
 Zhenglong is built to protect its users from the chaos often seen in leveraged trading. Instead of sudden margin calls and forced position closures, it takes a proactive, multi-layered approach to risk - giving users more time and tools to react while keeping the system stable.
 

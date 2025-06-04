@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-# Genesis Vaults: Bootstrapping New Markets
+# Genesis Vaults
 
 To launch new synthetic asset markets in a fair and balanced way, Zhenglong uses a powerful tool called a Genesis Vault. This is a one-time opportunity where early users help kickstart a market by depositing collateral - and in return, they receive both sides of that market: a zheTOKENS (stable) token and a steamedTOKEN (leveraged) token.
 

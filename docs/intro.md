@@ -3,9 +3,7 @@ sidebar_position: 1
 slug: /
 ---
 
-# Welcome to Zhenglong
-
-## Introduction
+# Introduction
 
 Zhenglong is a decentralized platform for issuing and trading data-pegged synthetic assets - tokens that track real-world or on-chain data feeds without holding the underlying assets. At its core is a three-token system that delivers 100% capital efficiency and operates without reliance on external liquidity pools. This means a single deposit of collateral simultaneously backs two distinct tokens: a zheTOKENS (a stable, pegged asset) and a steamedTOKEN (a leveraged asset), giving users the option of two sides of exposure from the same input.
 

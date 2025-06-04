@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Key Features at a Glance
+# Key Features
 
 Zhenglong offers a comprehensive set of features designed to revolutionize synthetic asset trading:
 

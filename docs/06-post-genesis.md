@@ -2,7 +2,7 @@
 sidebar_position: 8
 ---
 
-# Post-Genesis Operations: Minting, Redemption, and Dynamic Fees
+# Post-Genesis Operations
 
 Once a new market launches via a Genesis Vault, Zhenglong enters its regular operating mode. From here on out, users can mint new tokens or redeem existing ones at any time, depending on what kind of exposure they want.
 

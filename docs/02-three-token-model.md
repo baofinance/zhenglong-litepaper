@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Three-Token Model and 100% Collateral Efficiency
+# Three-Token Model
 
 At the heart of Zhenglong is a smart three-token structure that powers each market: a Collateral Token, a zheTOKENS (the stable, pegged asset), and a steamedTOKEN (the leveraged asset). This design ensures 100% of your collateral is always put to use - nothing sits idle.
 

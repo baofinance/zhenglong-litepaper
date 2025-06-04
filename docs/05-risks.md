@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Risks: What if Bad Stuff Happens?
+# Risks
 
 While Zhenglong is designed with multiple layers of protection, it's important to understand the risks and edge cases that could affect the system. This transparency helps users make informed decisions about their participation.
 
