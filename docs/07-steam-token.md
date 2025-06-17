@@ -114,4 +114,4 @@ The categories with immediate or early liquidity — IDO, Initial Liquidity, and
 
 _All values are linear unless stated otherwise. No cliffs. No surprise unlocks._
 
-![STEAM 5 Year Emissions](../static/img/tokenomics-cumulative-allocation.png)
+![STEAM 5 Year Emissions](../static/img/Zhenglong%20Token%20Emissions%20–%20First%205%20Years.png)
